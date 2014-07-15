@@ -1,0 +1,10 @@
+PODS:
+  - EasyMailSender (0.0.1)
+
+DEPENDENCIES:
+  - EasyMailSender
+
+SPEC CHECKSUMS:
+  EasyMailSender: 768915186195579f709001f5b811f4da1e695590
+
+COCOAPODS: 0.33.1
